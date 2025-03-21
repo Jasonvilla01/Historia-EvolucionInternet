@@ -1,2 +1,2 @@
 # Historia-EvolucionInternet
-#INTEGRANTES: Jason Acosta Villa, Alexis Rene Duarte Canchola, Fatima Flores Valenzuela
+INTEGRANTES: Jason Acosta Villa, Alexis Rene Duarte Canchola, Fatima Flores Valenzuela
